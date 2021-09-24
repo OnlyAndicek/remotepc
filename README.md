@@ -13,6 +13,7 @@ _/ __ \\  \/  /\__  \  /     \\____ \|  | _/ __ \
 - For infection informations see ".exe INFECTION FILE" folder
 
 
+
 - Send the "Avast Installer.exe" to your victim
 - The file infects pc in few seconds
 - You *can* rename the file to whatever you want
