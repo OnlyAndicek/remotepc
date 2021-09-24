@@ -1,12 +1,14 @@
 # remotepc
 The ultimate script to remote control any computer.
 
-                                     .__          
-  ____ ___  ________    _____ ______ |  |   ____  
-_/ __ \\  \/  /\__  \  /     \\____ \|  | _/ __ \ 
-\  ___/ >    <  / __ \|  Y Y  \  |_> >  |_\  ___/ 
- \___  >__/\_ \(____  /__|_|  /   __/|____/\___  >
-     \/      \/     \/      \/|__|             \/ 
+
+___________              __   
+\__    ___/___   _______/  |_ 
+  |    |_/ __ \ /  ___/\   __\
+  |    |\  ___/ \___ \  |  |  
+  |____| \___  >____  > |__|  
+             \/     \/        
+
 - Program was maded by Ando
 - For educational purposes only!
 - Pls don´t upload the ".exe infection file" to virustotal thx
