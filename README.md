@@ -1,6 +1,5 @@
 # remotepc
 The ultimate script to remote control any computer.
-
       ___           ___           ___           ___                       ___           ___     
      /\  \         /\  \         /\  \         /\  \          ___        /\  \         /\  \    
     /::\  \       /::\  \       /::\  \       /::\  \        /\  \       \:\  \       /::\  \   
