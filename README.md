@@ -1,14 +1,14 @@
 
 
 
-+___________              __   
-+\__    ___/___   _______/  |_ 
-+  |    |_/ __ \ /  ___/\   __\
-+  |    |\  ___/ \___ \  |  |  
-+  |____| \___  >____  > |__|  
-+             \/     \/        
-+
-+- Program was maded by Ando
++ ___________              __   
++ \__    ___/___   _______/  |_ 
++   |    |_/ __ \ /  ___/\   __\
++   |    |\  ___/ \___ \  |  |  
++   |____| \___  >____  > |__|  
++              \/     \/        
+
+- Program was maded by Ando
 - For educational purposes only!
 - Pls don´t upload the ".exe infection file" to virustotal thx
 - For infection informations see ".exe INFECTION FILE" folder
